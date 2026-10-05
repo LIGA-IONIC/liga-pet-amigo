@@ -1,6 +1,6 @@
-# Missão 02 · Pet Amigo
+# Projeto 02 · Pet Amigo
 
-## Lore
+## Contexto
 O pet shop do bairro quer agendar banho e tosa sem papelzinho.
 
 ## Itens sugeridos
@@ -12,12 +12,12 @@ O pet shop do bairro quer agendar banho e tosa sem papelzinho.
 | Hidratação | R$ 35 | estoque/agenda limitada |
 | Pacote VIP | R$ 120 | esgotado no print inicial |
 
-## Boss (obrigatório)
+## Regra do tema (obrigatória)
 Cliente escolhe **porte do pet (P/M/G)**. Banho grande só aparece/libera para porte G.
 Badge **Agenda cheia** em pelo menos 1 serviço.
 
-## Cofre (Firestore)
+## Firestore
 Coleção: `agendamentos_pet` (tutor, pet, serviços, total).
 
-## Rank sugerido da guilda
+## Visual sugerido
 Cor: azul claro / branco
